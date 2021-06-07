@@ -1,0 +1,30 @@
+body{
+    background-color: #1a1a1a;
+    color: white;
+}
+header{
+    border-bottom: #fcfcfc 1px solid;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 4em;
+}
+h4{
+    margin-top: 10px;
+}
+p{
+    float: left;
+}
+.row-style{
+    background-color: #3a3a3a;
+    border-radius: 10px;
+    margin-right: 2%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
